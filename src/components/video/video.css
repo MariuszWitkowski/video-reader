@@ -1,0 +1,45 @@
+.container {
+  width: 800px;
+  height: 700px;
+  background-color: beige;
+  border: 1px solid black;
+  position: relative;
+  margin: 0 auto;
+}
+
+.header {
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+}
+
+.input {
+  width: 780px;
+  font-size: 16px;
+  margin: 10px;
+}
+
+.video {
+  background: #000;
+  bottom: 40px;
+  height: 560px;
+  left: 0;
+  margin: 0 auto;
+  position: absolute;
+  width: 800px;
+}
+
+.canvas {
+  bottom: 40px;
+  left: 0;
+  position: absolute;
+}
+
+.controls {
+  bottom: 0;
+  height: 40px;
+  left: 0;
+  position: absolute;
+}
